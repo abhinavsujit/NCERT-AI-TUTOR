@@ -1,0 +1,223 @@
+[
+  {
+    "question": "What is a skeletal chemical equation and provide an example from the passage?",
+    "expected_chapter": "Chemical Reactions and Equations",
+    "key_terms": [
+      "skeletal chemical equation",
+      "Mg + O2 → MgO",
+      "burning of magnesium",
+      "unbalanced"
+    ]
+  },
+  {
+    "question": "What happens to atoms of one element during a chemical reaction according to the passage?",
+    "expected_chapter": "Chemical Reactions and Equations",
+    "key_terms": [
+      "atoms",
+      "one element",
+      "do not change",
+      "chemical reaction"
+    ]
+  },
+  {
+    "question": "What pH value indicates a neutral solution?",
+    "expected_chapter": "Acids, Bases and Salts",
+    "key_terms": [
+      "neutral solution",
+      "pH",
+      "7"
+    ]
+  },
+  {
+    "question": "Why are food cans coated with tin instead of zinc?",
+    "expected_chapter": "Metals and Non-metals",
+    "key_terms": [
+      "tin",
+      "zinc",
+      "reactive"
+    ]
+  },
+  {
+    "question": "What is the reason hydrogen gas is not evolved when a metal reacts with nitric acid?",
+    "expected_chapter": "Metals and Non-metals",
+    "key_terms": [
+      "HNO3",
+      "strong oxidising agent",
+      "oxidises",
+      "H2"
+    ]
+  },
+  {
+    "question": "What is the atomic number of hydrogen and how many electrons does it have in its K shell?",
+    "expected_chapter": "Carbon and its Compounds",
+    "key_terms": [
+      "atomic number",
+      "hydrogen",
+      "one electron",
+      "K shell"
+    ]
+  },
+  {
+    "question": "What is the role of plasma in blood according to the passage?",
+    "expected_chapter": "Life Processes",
+    "key_terms": [
+      "plasma",
+      "transports",
+      "food",
+      "carbon dioxide",
+      "nitrogenous wastes"
+    ]
+  },
+  {
+    "question": "What are some of the harmful effects of tobacco use mentioned in the passage?",
+    "expected_chapter": "Life Processes",
+    "key_terms": [
+      "tongue",
+      "lungs",
+      "heart",
+      "liver"
+    ]
+  },
+  {
+    "question": "What is one reason living organisms exhibit movement in response to changes in their environment?",
+    "expected_chapter": "Control and Coordination",
+    "key_terms": [
+      "movement",
+      "response",
+      "environment",
+      "advantage"
+    ]
+  },
+  {
+    "question": "What is the difference between involuntary actions and reflex actions?",
+    "expected_chapter": "Control and Coordination",
+    "key_terms": [
+      "involuntary actions",
+      "reflex actions",
+      "difference"
+    ]
+  },
+  {
+    "question": "Why do organisms reproduce if it is not necessary for the survival of an individual organism?",
+    "expected_chapter": "How do Organisms Reproduce",
+    "key_terms": [
+      "reproduce",
+      "individual organism",
+      "energy",
+      "survival"
+    ]
+  },
+  {
+    "question": "Asexual reproduction takes place through budding in which of the following organisms?",
+    "expected_chapter": "How do Organisms Reproduce",
+    "key_terms": [
+      "asexual reproduction",
+      "budding",
+      "Yeast"
+    ]
+  },
+  {
+    "question": "What are the traits called that require only a single copy to express themselves, and what are the traits called that require both copies to express themselves?",
+    "expected_chapter": "Heredity",
+    "key_terms": [
+      "dominant traits",
+      "recessive traits"
+    ]
+  },
+  {
+    "question": "What process maximizes the number of successful variations in organisms?",
+    "expected_chapter": "Heredity",
+    "key_terms": [
+      "sexual reproduction",
+      "variations",
+      "successful",
+      "organisms"
+    ]
+  },
+  {
+    "question": "What enables us to see objects in a room when it is lit?",
+    "expected_chapter": "Light – Reflection and Refraction",
+    "key_terms": [
+      "light",
+      "reflects",
+      "visible",
+      "eyes"
+    ]
+  },
+  {
+    "question": "What is the angle called that measures the bending of the emergent ray in a prism compared to the incident ray?",
+    "expected_chapter": "The Human Eye and the Colourful World",
+    "key_terms": [
+      "angle of deviation",
+      "emergent ray",
+      "incident ray",
+      "prism"
+    ]
+  },
+  {
+    "question": "What is the minimum distance at which objects can be seen most distinctly without strain, and what is it called?",
+    "expected_chapter": "The Human Eye and the Colourful World",
+    "key_terms": [
+      "least distance of distinct vision",
+      "near point",
+      "25 cm"
+    ]
+  },
+  {
+    "question": "What is the SI unit of resistance?",
+    "expected_chapter": "Electricity",
+    "key_terms": [
+      "SI unit",
+      "resistance",
+      "ohm"
+    ]
+  },
+  {
+    "question": "What is the heating effect of electric current and how is it utilized in devices?",
+    "expected_chapter": "Electricity",
+    "key_terms": [
+      "heating effect",
+      "electric current",
+      "electric heater",
+      "electric iron"
+    ]
+  },
+  {
+    "question": "What rule can be used to find the direction of the force on a conductor when the direction of current is at right angles to the direction of the magnetic field?",
+    "expected_chapter": "Magnetic Effects of Electric Current",
+    "key_terms": [
+      "Fleming’s left-hand rule",
+      "direction of current",
+      "magnetic field",
+      "force"
+    ]
+  },
+  {
+    "question": "What precaution should be taken to avoid the overloading of domestic electric circuits?",
+    "expected_chapter": "Magnetic Effects of Electric Current",
+    "key_terms": [
+      "precaution",
+      "overloading",
+      "domestic electric circuits"
+    ]
+  },
+  {
+    "question": "What is the relationship between the number of individuals at the lower trophic levels and the producers in an ecosystem?",
+    "expected_chapter": "Our Environment",
+    "key_terms": [
+      "lower trophic levels",
+      "greater number",
+      "producers"
+    ]
+  },
+  {
+    "question": "What agreement did the United Nations Environment Programme (UNEP) achieve in 1987 regarding CFC production?",
+    "expected_chapter": "Our Environment",
+    "key_terms": [
+      "CFC production",
+      "1986 levels",
+      "mandatory",
+      "CFC-free refrigerators"
+    ]
+  }
+]
