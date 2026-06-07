@@ -1,0 +1,26 @@
+# Environment
+backend/.env
+.env
+
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Generated index files (run run_ingestion.py to regenerate)
+data/index/
+data/chapters/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
